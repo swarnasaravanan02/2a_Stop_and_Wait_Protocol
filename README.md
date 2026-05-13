@@ -1,3 +1,5 @@
+## NAME: SWARNA PRIYA S
+## REG.NO: 212225040447
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
